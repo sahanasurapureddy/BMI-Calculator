@@ -8,7 +8,7 @@ https://sahanaportfolio-dev-ed.develop.my.site.com/bmi-calculator)
 ### Technologies Used 🛠
 I have styling using CSS, using slides library that is a CSS library built by Salesforce.
 Built a very small form using HTML and did the default HTML validation.
-Written login in Javascript
+Written logic in Javascript
 Used Lightning Web Runtime (LWR) template for building the site
 
 ### Overview 📖
